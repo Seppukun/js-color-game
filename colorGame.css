@@ -1,0 +1,57 @@
+body{
+    background-color: #232323;
+}
+
+.square{
+    width: 30%;
+    background-color: aquamarine;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h1{
+    color: gray;
+}
+
+h2{
+    color: gray;
+}
+
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+span{
+    color: white;
+}
+
+#stripe{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    text-align: center;
+}
+
+#selected{
+    background-color: rgb(121, 224, 255);
+}
+
+#reset{
+    height: 30px;
+    text-align: inherit;
+}
+
+#easyBtn{
+    height: 30px;
+    text-align: inherit;
+}
+
+#hardBtn{
+    height: 30px;
+    text-align: inherit;
+}
+
+.selected {
+    background-color: rgb(75, 129, 199);
+}
