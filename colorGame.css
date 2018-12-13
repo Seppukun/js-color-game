@@ -15,12 +15,15 @@ h1{
     color: whitesmoke;
     text-align: center;
     font-weight: normal;
+    margin: 0;
 }
 
 h2{
     color: whitesmoke;
     font-weight: normal;
-
+    text-align: center;
+    background-color:gray;
+    margin: 0;
 }
 
 #container{
