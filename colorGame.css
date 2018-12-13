@@ -61,5 +61,22 @@ span{
 }
 
 .selected {
-    background-color: rgb(75, 129, 199);
+    color: whitesmoke;
+    background: steelblue;
+}
+
+button{
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 650;
+    color: steelblue;
+    font-size: inherit;
+    transition: all .5s;
+}
+
+button:hover{
+    color: whitesmoke;
+    background: steelblue;
 }
