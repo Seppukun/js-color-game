@@ -9,6 +9,8 @@ body{
     padding-bottom: 30%;
     float: left;
     margin: 1.66%;
+    border-radius: 8%;
+    transition: background-color 0.5s;
 }
 
 h1{
@@ -27,7 +29,7 @@ h2{
 }
 
 #container{
-    margin: 0 auto;
+    margin: 20px auto;
     max-width: 600px;
 }
 
