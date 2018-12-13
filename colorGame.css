@@ -1,5 +1,6 @@
 body{
     background-color: #232323;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
 }
 
 .square{
@@ -11,11 +12,15 @@ body{
 }
 
 h1{
-    color: gray;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: normal;
 }
 
 h2{
-    color: gray;
+    color: whitesmoke;
+    font-weight: normal;
+
 }
 
 #container{
